@@ -1,0 +1,11 @@
+Objective: 
+To answer 
+    1. What is the problem?
+    2. Who faced the problem?
+    3. How to solve the problem raised in step 2?
+
+Ans 1: There are packages which perform association rule mining for finding frequent itemsets, association rules, etc. using `apriori` and `Eclat` algorithms. But there are algorithms e.g. FP-Growth, MASP which are not addressed by these packages.
+
+Ans 2: If someone wants to use `MASP` algorithm they will have to write it first. In such a scenario most of the users end up doing the same thing. Life of users will be comfortable if they can find useful algorithms at the same place.  
+
+Ans 3: Develop a software project.
